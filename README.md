@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=SaiCharann0417&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=SaiCharan0417&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ### 🔝 Top Contributed Repo
